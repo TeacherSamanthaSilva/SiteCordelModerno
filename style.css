@@ -32,6 +32,21 @@ a{
 }
 a:hover{
     text-decoration:underline;
+    
+}
+
+section{
+    padding-top: 10vh;
+}
+
+.normal{
+    background-color:white ;
+    color: black;
+}
+
+.imagem{
+    background-color:black;
+    color: white;
 }
 
 footer{
