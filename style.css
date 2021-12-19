@@ -8,6 +8,7 @@ html, body{
     background-color: darkgray;
     min-height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:1em;
 }
 
 header{
@@ -20,7 +21,8 @@ header > h1{
 
     padding-top: 50px;
     font-variant: small-caps;
-    font-family:  'Passion One', cursive;;
+    font-family:  'Passion One', cursive;
+    font-size:10vh;
 }
 
 header > p{
@@ -42,6 +44,7 @@ section{
     padding-bottom: 10vh;
     line-height:2em;
     padding-left:30px;
+    font-size:3.5vh;
 }
 
 
@@ -57,7 +60,7 @@ section{
 }
 
 .imagem > p{
-    width:400px;
+   
     background-color:rgba(0, 0,0, 253);
 }
 
